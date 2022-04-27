@@ -3579,3 +3579,39 @@ label {
   transform: scale(1.10);
 
 }
+
+#background-video {
+  min-width: 40%;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+
+.hd1
+{
+  text-align: center;
+  margin-top:250px;
+
+
+  /* display: flex; sb extreme left corner se ajayega */
+}
+.hd2
+{
+  text-align: center;
+  color: #ffffff;
+}
+.hd3
+{
+  text-align: center;
+  color: #37B3A9;
+
+}
+
+
+
